@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mani-tech/static/css/main.8704bae1.chunk.css",
-    "main.js": "/mani-tech/static/js/main.bb10b6dc.chunk.js",
-    "main.js.map": "/mani-tech/static/js/main.bb10b6dc.chunk.js.map",
+    "main.js": "/mani-tech/static/js/main.c708edad.chunk.js",
+    "main.js.map": "/mani-tech/static/js/main.c708edad.chunk.js.map",
     "runtime-main.js": "/mani-tech/static/js/runtime-main.6bb41f42.js",
     "runtime-main.js.map": "/mani-tech/static/js/runtime-main.6bb41f42.js.map",
     "static/css/2.8885c1cd.chunk.css": "/mani-tech/static/css/2.8885c1cd.chunk.css",
@@ -29,6 +29,6 @@
     "static/css/2.8885c1cd.chunk.css",
     "static/js/2.e0c6bc06.chunk.js",
     "static/css/main.8704bae1.chunk.css",
-    "static/js/main.bb10b6dc.chunk.js"
+    "static/js/main.c708edad.chunk.js"
   ]
 }
